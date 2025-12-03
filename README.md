@@ -4,7 +4,7 @@ A hybrid neural-symbolic approach for robust traffic sign classification on the 
 
 ## Overview
 
-This project implements a novel architecture that integrates **symbolic knowledge** into neural network training to improve both classification accuracy and adversarial robustness. The model learns not just to classify traffic signs, but also to predict and respect symbolic attributes (shape, colors, category, icon type) through soft logic constraints.
+This project implements a novel architectural approach that integrates **symbolic knowledge** into neural network training to improve both classification accuracy and adversarial robustness. The model learns not just to classify traffic signs, but also to predict and respect symbolic attributes (shape, colors, category, icon type) through soft logic constraints.
 
 ### Main Features
 
