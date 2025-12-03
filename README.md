@@ -196,7 +196,7 @@ For questions or issues, please open an issue on GitHub or contact [jschm25@uic.
 
 ---
 
-**Note from Dev**: First off this is research code. While we strive for correctness, please report any issues you encounter.
+**Note from Dev**: To begin, I just want to say that this is research code. While we strive for correctness, please report any issues you encounter.
 
 I would like to mention personally that as a young aspiring Machine Learning engineer, my work and process was not perfect. My goal was to research how Neuro Symbolic AI can help improve adversarial robustness in neural networks. My conclusion was that with my approach Neuro Symbolic alone had a negligible impact on adversarial robustness, however when coupled with an adversarial training approach it made that same adversarial training nearly 3x as effective while maintaining peak clean accuracy peformance (adversarial training tends to break/hurt clean accuracy). That being said, Neuro Symbolic AI does have the potential and can improve a models vulnerability to attacks. My architectural engineering was in no way perfect and plenty of more fine tuning could have been done to achieve better results, but my experimentation was sound and proves real results/findings. I think my basic and simple approach to developing and experimenting shows just how much more potential there is in an approach like this to obtain higher results in adversarial robustness.
 
